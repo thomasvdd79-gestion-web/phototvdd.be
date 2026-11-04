@@ -1,0 +1,10 @@
+# Old Squarespace addresses -> new pages (permanent)
+/contact2              /contact/              301
+/personnalworks        /personal-works/       301
+/diaries-1             /diaries/              301
+/commissionned-works-1 /commissioned-works/   301
+/over-the-top          /archives/             301
+/portraiture-1         /portraits/            301
+/home                  /                      301
+/news                  /                      301
+/news/*                /                      301
